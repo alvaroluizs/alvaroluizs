@@ -6,6 +6,6 @@
 
 - Skills
   Java
-- Contact
-  - [**Acesse meu email**](alvaroluiz217@gmail.com)
-  - [**Acesse meu Linkedin**](www.linkedin.com/in/alvaro-luiz-dev)
+Contact
+- Email: alvaroluiz217@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alvaro-luiz-94501a197/
