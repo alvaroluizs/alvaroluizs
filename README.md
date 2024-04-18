@@ -8,4 +8,4 @@
   Java
 
 - Email: alvaroluiz217@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alvaro-luiz-94501a197/
+- LinkedIn: in/alvaro-luiz-dev
