@@ -1,4 +1,4 @@
-- Hello! I'm Alvaro Luiz. 👽
+- Hello! I'm Alvaro Luiz. 🖖
 
 
   I am a student and software developer currently studying the Java language. I am passionate about technology and always seek to
