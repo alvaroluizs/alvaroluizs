@@ -5,7 +5,7 @@
   find the best and most performant solutions, improving and expanding my knowledge.
 
 - ## Skills
-  Java, POO
+  - Java - C# - JavaScript - AWS - Banco De Dados - API 
 
 - Email: alvaroluiz217@gmail.com
 - LinkedIn: www.linkedin.com/in/alvaro-luiz-dev
