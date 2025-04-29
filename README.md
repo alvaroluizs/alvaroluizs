@@ -5,6 +5,7 @@
   find the best and most performant solutions, improving and expanding my knowledge.
 
 🚀 Skills
+
 Languages: Java, C#, JavaScript
 
 Cloud & DevOps: AWS
