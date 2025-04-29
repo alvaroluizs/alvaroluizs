@@ -4,11 +4,18 @@
   I am a student and software developer currently studying the Java language. I am passionate about technology and always seek to
   find the best and most performant solutions, improving and expanding my knowledge.
 
-- ## Skills
-   Java | C# | JavaScript | AWS | Banco De Dados | API 
+🚀 Skills
+Languages: Java, C#, JavaScript
 
-- Email: alvaroluiz217@gmail.com
-🔗 [LinkedIn: www.linkedin.com/in/alvaro-luiz-dev](https://www.linkedin.com/in/alvaro-luiz-dev)
+Cloud & DevOps: AWS
+
+Databases: SQL, NoSQL
+
+APIs: RESTful API Development
+
+📧 Contact
+📧 Email: alvaroluiz217@gmail.com
+🔗 LinkedIn: Alvaro Luiz
 
 
 
