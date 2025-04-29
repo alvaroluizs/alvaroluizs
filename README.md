@@ -9,3 +9,4 @@
 
 - Email: alvaroluiz217@gmail.com
 - LinkedIn: www.linkedin.com/in/alvaro-luiz-dev
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
