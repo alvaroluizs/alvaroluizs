@@ -22,9 +22,14 @@
 
 ### 🔗 APIs
 [![RESTful](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
-📧 Contact
-📧 Email: alvaroluiz217@gmail.com
-🔗 LinkedIn: Alvaro Luiz
+
+
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-alvaroluiz217@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroluiz217@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro%20Luiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-luiz-dev)
+
 
 
 
