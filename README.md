@@ -8,7 +8,12 @@
    Java | C# | JavaScript | AWS | Banco De Dados | API 
 
 - Email: alvaroluiz217@gmail.com
-🔗 [LinkedIn: www.linkedin.com/in/alvaro-luiz-dev](https://www.linkedin.com/in/alvaro-luiz-dev)
+
+
+## 💬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro%20Luiz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvaro-luiz-dev)
+
 
 
 
