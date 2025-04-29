@@ -11,4 +11,4 @@
 - LinkedIn: www.linkedin.com/in/alvaro-luiz-dev
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroluizs&layout=compact&bg_color=000000)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvaroluizs&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroluizs&layout=compact&bg_color=000000)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvaroluizs&theme=github-dark)
